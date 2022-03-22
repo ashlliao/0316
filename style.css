@@ -1,0 +1,29 @@
+@charset "UTF-8";
+.container {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.container header {
+	color: #B58054;
+	text-align: center;
+	font-size: 20px;
+}
+main article h3 {
+	background-color: #E7C8A2;
+	border-radius: 8px;
+	background-position: 0% 0%;
+	height: 35px;
+	padding-left: 10px;
+	line-height: 35px;
+}
+footer p a:link {
+	color: #976E3C;
+}
+footer p a:visited {
+	color: #DFA971;
+}
+footer p a:hover {
+	color: #976E3C;
+	font-size: large;
+}
